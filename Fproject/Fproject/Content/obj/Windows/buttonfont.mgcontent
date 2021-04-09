@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/migzc/source/repos/Fproject/Fproject/Content/buttonfont.spritefont</SourceFile>
+  <SourceTime>2021-04-05T15:18:04.7948128+08:00</SourceTime>
+  <DestFile>C:/Users/migzc/source/repos/Fproject/Fproject/Content/bin/Windows/buttonfont.xnb</DestFile>
+  <DestTime>2021-04-05T15:18:06.8954792+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T23:05:36+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T23:05:36+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

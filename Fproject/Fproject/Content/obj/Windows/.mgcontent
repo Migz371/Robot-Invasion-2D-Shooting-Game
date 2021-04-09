@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/player.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/bullet.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/bggame.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/tiles.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/gunsound1.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/Enemy1.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/reload.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/enemyhit.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/explosion.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/explosionsfx.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/bgmusic.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/noammo.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/trigger.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/healthbar.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/button.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/menumusic.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/buttonfont.spritefont</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/MainMenu.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/instruc.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/discget.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/fontinterface.spritefont</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/guninterface.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/door.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/doorsound.wav</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/victory.png</File>
+    <File>C:/Users/migzc/source/repos/Fproject/Fproject/Content/victorysound.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
